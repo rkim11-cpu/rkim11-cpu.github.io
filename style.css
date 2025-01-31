@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+.canvas {
+    width: 100%;
+
+}
+.canvas .map {
+    width: 100%;
+    z-index: 1;
+}
+.one {
+    width: 5%;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+}
